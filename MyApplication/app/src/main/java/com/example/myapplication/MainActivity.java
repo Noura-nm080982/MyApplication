@@ -36,6 +36,7 @@ public class MainActivity extends AppCompatActivity {
                 String name= nameEdt.getText().toString();
                // Log.d(TAG, "I am clicked");
                 Toast.makeText(MainActivity.this, " Welcome to CMPS-312 lab" + name,Toast.LENGTH_LONG).show();
+                Toast.makeText(MainActivity.this, " Welcome to CMPS-312 lab" + name,Toast.LENGTH_LONG).show();
             }
         });
 //        for (int i = 0; i <10; i++) {
